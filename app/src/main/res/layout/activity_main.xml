@@ -9,7 +9,6 @@
 
     <TextView
         android:id="@+id/question_text"
-        android:text="@string/hello_world"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="200dp"
@@ -37,6 +36,22 @@
             android:layout_height="wrap_content"
             android:text="@string/false_text"
             />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/line_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/line_button"
+        android:gravity="center_horizontal"
+        >
+        <Button
+            android:id="@+id/next_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/next_question"
+            />
+
     </LinearLayout>
 
 
