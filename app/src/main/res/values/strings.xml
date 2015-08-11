@@ -8,7 +8,8 @@
     <string name="false_text">false</string>
     <string name="correct_toast">correct!</string>
     <string name="wrong_toast">wrong!</string>
-    <string name="next_question">Next></string>
+    <string name="next_question">Next</string>
+    <string name="pre_question">Pre</string>
     <string name="question1">question1</string>
     <string name="question2">question2</string>
     <string name="question3">question3</string>
