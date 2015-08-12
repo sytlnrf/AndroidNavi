@@ -3,6 +3,9 @@
   <component name="AndroidDexCompilerConfiguration">
     <option name="VM_OPTIONS" value="-javaagent:/Users/shengyitao/Documents/oneapm/oneapm/plugin/class.rewriter.jar" />
   </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
